@@ -1,0 +1,5 @@
+{
+  "user": { "id": 1, "name": "Steve Jobs" },
+  "room": { "id": 1, "name": "Room 1" },
+  "message": { "id": 1, "body": { "html": "foo", "plain": "hi" } }
+}
