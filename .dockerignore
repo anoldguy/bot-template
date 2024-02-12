@@ -1,0 +1,73 @@
+# flyctl launch added from .bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/.gitignore
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/.bundle
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/.yardoc
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/Gemfile.lock
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/_yardoc
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/coverage
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/doc
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/pkg
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/spec/reports
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/tmp
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/**/*.bundle
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/**/*.so
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/**/*.o
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/**/*.a
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/**/mkmf.log
+.bundle/gems/ruby/3.3.0/gems/cognition-2.1.2/**/*.gem
+
+# flyctl launch added from .bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/.gitignore
+.bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/**/Gemfile.lock
+.bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/**/.DS_Store
+.bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/**/.yardoc
+.bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/**/doc
+.bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/**/tmp
+.bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/**/log
+.bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/**/pkg
+.bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/**/*.swp
+.bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/.bundle
+.bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/**/.rvmrc
+.bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/**/coverage
+.bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/**/*.gem
+.bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/**/.idea
+.bundle/gems/ruby/3.3.0/gems/httparty-0.21.0/**/.tool-versions
+
+# flyctl launch added from .bundle/gems/ruby/3.3.0/gems/mini_mime-1.1.5/.gitignore
+.bundle/gems/ruby/3.3.0/gems/mini_mime-1.1.5/.bundle
+.bundle/gems/ruby/3.3.0/gems/mini_mime-1.1.5/.yardoc
+.bundle/gems/ruby/3.3.0/gems/mini_mime-1.1.5/Gemfile.lock
+.bundle/gems/ruby/3.3.0/gems/mini_mime-1.1.5/_yardoc
+.bundle/gems/ruby/3.3.0/gems/mini_mime-1.1.5/coverage
+.bundle/gems/ruby/3.3.0/gems/mini_mime-1.1.5/doc
+.bundle/gems/ruby/3.3.0/gems/mini_mime-1.1.5/pkg
+.bundle/gems/ruby/3.3.0/gems/mini_mime-1.1.5/spec/reports
+.bundle/gems/ruby/3.3.0/gems/mini_mime-1.1.5/tmp
+
+# flyctl launch added from .bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/.gitignore
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/*.gem
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/*.rbc
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/.bundle
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/.config
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/.yardoc
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/Gemfile.lock
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/InstalledFiles
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/_yardoc
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/coverage
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/doc
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/lib/bundler/man
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/pkg
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/rdoc
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/spec/reports
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/test/tmp
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/test/version_tmp
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/tmp
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/lib/nio4r_ext.*
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/ext/**/*.o
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/ext/**/nio4r_ext.*
+.bundle/gems/ruby/3.3.0/gems/nio4r-2.7.0/**/.rspec_status
+
+# flyctl launch added from .gitignore
+**/.bundle
+
+# flyctl launch added from .ruby-lsp/.gitignore
+.ruby-lsp/**/*
+fly.toml
